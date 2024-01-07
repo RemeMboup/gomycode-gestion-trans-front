@@ -1,0 +1,29 @@
+.navbar{
+    margin-top: 20px;
+    font-family: 'Inter', sans-serif;
+}
+.logo{
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Mynerve', cursive ;
+    /*margin-left: 40%*/
+}
+.item{
+    margin-right: 10px;
+    padding: 13px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.item:hover{
+    color: black;
+    background-color: rgb(95, 93, 93);
+    border-radius: 10px;
+}
+.active{
+    color: black;
+    background-color: rgb(13,202,240);
+    border-radius: 10px;
+}
+.container{
+    margin-bottom: 200rem;
+}
